@@ -8,16 +8,16 @@
         "source": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.projekt_techniczny_studia.app-merged_res-31:/layout_creating_new_profile_of_friends.xml.flat",
+        "source": "com.example.projekt_techniczny_studia.app-main-33:/layout/creating_new_profile_of_friends.xml"
+    },
+    {
         "merged": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-merged_res-31:\\layout_creating_new_profile_of_friends.xml.flat",
         "source": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-main-33:\\layout\\creating_new_profile_of_friends.xml"
-    },
-    {
-        "merged": "com.example.projekt_techniczny_studia.app-merged_res-31:/layout_settings.xml.flat",
-        "source": "com.example.projekt_techniczny_studia.app-main-33:/layout/settings.xml"
     },
     {
         "merged": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-merged_res-31:\\layout_activity_main.xml.flat",
@@ -66,6 +66,10 @@
     {
         "merged": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-merged_res-31:\\layout_settings.xml.flat",
+        "source": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-main-33:\\layout\\settings.xml"
     },
     {
         "merged": "C:\\Users\\Janek\\.gradle\\daemon\\8.0\\com.example.projekt_techniczny_studia.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",

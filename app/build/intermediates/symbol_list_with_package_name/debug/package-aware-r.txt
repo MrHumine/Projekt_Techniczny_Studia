@@ -3140,6 +3140,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
+id button_add_description_creating_new_profile
 id button_close_of_creating_new_profile_of_friend
 id button_create_avatar
 id button_of_add_new_friend
@@ -3497,11 +3498,12 @@ id textView
 id textViewDescription
 id textViewEyesColour
 id textViewHairColour
-id textViewLocalization
 id textViewName
+id text_input_add_name
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id text_view_localization
 id textinput_counter
 id textinput_error
 id textinput_helper_text

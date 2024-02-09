@@ -4,6 +4,7 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id button_add_description_creating_new_profile
 id button_close_of_creating_new_profile_of_friend
 id button_create_avatar
 id button_of_add_new_friend
@@ -14,8 +15,9 @@ id textView
 id textViewDescription
 id textViewEyesColour
 id textViewHairColour
-id textViewLocalization
 id textViewName
+id text_input_add_name
+id text_view_localization
 layout activity_main
 layout creating_new_profile_of_friends
 layout list_of_firends_intent

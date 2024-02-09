@@ -3139,6 +3139,7 @@ int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
 int id bounceStart 0x7f080061
 int id buttonPanel 0x7f080062
+int id button_add_description_creating_new_profile 0x7f0801fa
 int id button_close_of_creating_new_profile_of_friend 0x7f0801f9
 int id button_create_avatar 0x7f080063
 int id button_of_add_new_friend 0x7f080064
@@ -3496,11 +3497,12 @@ int id textView 0x7f0801c3
 int id textViewDescription 0x7f0801c4
 int id textViewEyesColour 0x7f0801c5
 int id textViewHairColour 0x7f0801c6
-int id textViewLocalization 0x7f0801c7
 int id textViewName 0x7f0801c8
+int id text_input_add_name 0x7f0801fb
 int id text_input_end_icon 0x7f0801c9
 int id text_input_error_icon 0x7f0801ca
 int id text_input_start_icon 0x7f0801cb
+int id text_view_localization 0x7f0801fc
 int id textinput_counter 0x7f0801cc
 int id textinput_error 0x7f0801cd
 int id textinput_helper_text 0x7f0801ce
