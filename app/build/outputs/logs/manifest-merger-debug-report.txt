@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Janek\.gradle\caches\transforms-3\3801bb2ee662426e5389f1d5dff07ce2\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Janek\.gradle\caches\transforms-3\c6baa8aeb33a534f4152f465dad29ce3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Janek\.gradle\caches\transforms-3\b52eb97f1c8042e594b7eae729dc0352\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Janek\.
 	xmlns:android
 		ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:5:5-24:19
-INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:5:5-34:19
+INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:5:5-34:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Janek\.gradle\caches\transforms-3\3801bb2ee662426e5389f1d5dff07ce2\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Janek\.gradle\caches\transforms-3\3801bb2ee662426e5389f1d5dff07ce2\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Janek\.gradle\caches\transforms-3\c6baa8aeb33a534f4152f465dad29ce3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -112,6 +112,18 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.projekt_techniczny_studia.AddNewFriendScreen
+ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:24:9-26:20
+	android:name
+		ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:25:13-47
+activity#com.example.projekt_techniczny_studia.SettingsIntent
+ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:27:9-29:20
+	android:name
+		ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.example.projekt_techniczny_studia.CreatingNewAvatarIntent
+ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:31:9-33:20
+	android:name
+		ADDED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml:32:13-52
 uses-sdk
 INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Janek\AndroidStudioProjects\Projekt_Techniczny_Humon\app\src\main\AndroidManifest.xml

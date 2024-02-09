@@ -36,6 +36,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.projekt_techniczny_studia.AddNewFriendScreen" >
+        </activity>
+        <activity android:name="com.example.projekt_techniczny_studia.SettingsIntent" >
+        </activity>
+        <activity android:name="com.example.projekt_techniczny_studia.CreatingNewAvatarIntent" >
+        </activity>
 
         <provider
             android:name="androidx.startup.InitializationProvider"

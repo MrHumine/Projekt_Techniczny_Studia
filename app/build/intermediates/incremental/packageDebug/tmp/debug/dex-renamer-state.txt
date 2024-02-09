@@ -1,4 +1,4 @@
-#Fri Feb 09 14:36:14 GMT 2024
+#Fri Feb 09 15:48:10 GMT 2024
 base.0=C\:\\Users\\Janek\\AndroidStudioProjects\\Projekt_Techniczny_Humon\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Janek\\AndroidStudioProjects\\Projekt_Techniczny_Humon\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Janek\\AndroidStudioProjects\\Projekt_Techniczny_Humon\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex

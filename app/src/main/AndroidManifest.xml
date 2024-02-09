@@ -21,6 +21,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".AddNewFriendScreen">
+        </activity>
+        <activity
+            android:name=".SettingsIntent">
+        </activity>
+
+        <activity
+            android:name=".CreatingNewAvatarIntent">
+        </activity>
     </application>
 
 </manifest>

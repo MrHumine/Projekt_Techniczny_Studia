@@ -3140,6 +3140,11 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
+id button_close_of_creating_new_profile_of_friend
+id button_create_avatar
+id button_of_add_new_friend
+id button_of_list_of_friends
+id button_of_settings
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3259,6 +3264,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -3487,6 +3493,12 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textViewDescription
+id textViewEyesColour
+id textViewHairColour
+id textViewLocalization
+id textViewName
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3650,6 +3662,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout creating_new_profile_of_friends
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3666,6 +3679,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout list_of_firends_intent
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3726,6 +3740,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout settings
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round

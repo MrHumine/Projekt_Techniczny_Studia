@@ -13,6 +13,13 @@
         android:gravity="center"
         android:orientation="vertical">
         <Button
+            android:id="@+id/button_of_add_new_friend"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Add new friend"
+            >
+        </Button>
+        <Button
             android:id="@+id/button_of_list_of_friends"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
