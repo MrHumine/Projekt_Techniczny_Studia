@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_add_description_creating_new_profile
+id button_close_of_creating_new_profile_of_friend
+id button_create_avatar
+id button_of_add_new_friend
+id button_of_list_of_friends
+id button_of_settings
+id imageView
+id textView
+id textViewDescription
+id textViewEyesColour
+id textViewHairColour
+id textViewName
+id text_input_add_description
+id text_input_add_eyes
+id text_input_add_hair
+id text_input_add_localization
+id text_input_add_name
+id text_view_localization
+layout activity_main
+layout creating_new_profile_of_friends
+layout list_of_firends_intent
+layout settings
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Projekt_techniczny_studia
+style Theme.Projekt_techniczny_studia
+xml backup_rules
+xml data_extraction_rules
