@@ -1,7 +1,6 @@
 package com.example.projekt_techniczny_studia;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
@@ -21,13 +20,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intentAddNewFriendScreen = new Intent(this, AddNewFriendScreen.class);
         Intent intentSettings = new Intent(this, SettingsIntent.class);
 
-        buttonAddNewFriend.setOnClickListener((view)->{
-            startActivity(intentAddNewFriendScreen);
-        });
+        buttonAddNewFriend.setOnClickListener((view)-> startActivity(intentAddNewFriendScreen));
 
-        buttonSettings.setOnClickListener((view)->{
-            startActivity(intentSettings);
-        });
+        buttonSettings.setOnClickListener((view)-> startActivity(intentSettings));
 
     }
 }
