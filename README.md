@@ -34,6 +34,7 @@ Funkcjonalności:
     •	Rodzaj sylwetki
     •	Typ osobowości
     •	Ustawienia w settings w prawym górnych rogu
+    •	Dodanie trybu noclengo
     
     Można nagrać opis – nagranie będzie zamienione na tekst
     
