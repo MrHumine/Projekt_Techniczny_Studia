@@ -31,6 +31,10 @@
         <activity
             android:name=".CreatingNewAvatarIntent">
         </activity>
+
+        <activity
+            android:name=".ListOfFriendsIntent">
+        </activity>
     </application>
 
 </manifest>

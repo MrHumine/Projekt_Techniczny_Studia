@@ -3141,7 +3141,9 @@ id bounceEnd
 id bounceStart
 id buttonPanel
 id button_add_description_creating_new_profile
+id button_close_list_of_friends
 id button_close_of_creating_new_profile_of_friend
+id button_close_settings
 id button_create_avatar
 id button_of_add_new_friend
 id button_of_list_of_friends
@@ -3685,7 +3687,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout list_of_firends_intent
+layout list_of_friends_intent
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
