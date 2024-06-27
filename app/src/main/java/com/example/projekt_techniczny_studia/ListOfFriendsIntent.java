@@ -22,11 +22,15 @@ public class ListOfFriendsIntent extends AppCompatActivity {
 //        DataFromAddNewFriends[] listData = new DataFromAddNewFriends[]{
 //                new DataFromAddNewFriends("", "", "", "","")
 //        };
-        Adapter adapter = new Adapter(this, friendsList.toArray(new DataFromAddNewFriends[0]));
+//        Adapter adapter = new Adapter(this, friendsList.toArray(new DataFromAddNewFriends[0]));
+        DataFromAddNewFriends[] friendsArray = friendsList.toArray(new DataFromAddNewFriends[0]);
+        Adapter adapter = new Adapter(this, friendsArray);
+
 //        Adapter adapter = new Adapter(this, listData);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setAdapter(adapter);
+        adapter.notifyDataSetChanged();
 
         buttonClose = findViewById(R.id.button_close_list_of_friends);
 

@@ -1,5 +1,7 @@
 package com.example.projekt_techniczny_studia;
 
+import androidx.annotation.NonNull;
+
 public class DataFromAddNewFriends {
     private String name;
     private String localization;
@@ -13,6 +15,12 @@ public class DataFromAddNewFriends {
         this.hairColour = hairColour;
         this.eyesColour = eyesColour;
         this.description = description;
+    }
+
+    @NonNull
+    @Override
+    public String toString() {
+        return name + " " + localization + " " + hairColour + " " + eyesColour + " " + description + " ";
     }
 
     public String getName() {
