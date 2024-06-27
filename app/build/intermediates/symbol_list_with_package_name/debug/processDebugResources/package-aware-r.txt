@@ -3268,6 +3268,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id image_view_in_list_of_friends
 id immediateStop
 id included
 id indeterminate
@@ -3406,6 +3407,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recycle_view_list_of_friends
 id report_drawn
 id reverseSawtooth
 id right
@@ -3510,6 +3512,11 @@ id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
 id text_view_localization
+id text_wiew_in_list_of_friends_for_description
+id text_wiew_in_list_of_friends_for_eyes_colours
+id text_wiew_in_list_of_friends_for_hair_colour
+id text_wiew_in_list_of_friends_for_localization
+id text_wiew_in_list_of_friends_for_name
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -3749,6 +3756,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout settings
+layout single_recycle_view_to_list_of_friends
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round

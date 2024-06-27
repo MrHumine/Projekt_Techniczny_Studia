@@ -21,6 +21,7 @@
                 android:orientation="vertical">
 
                 <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recycle_view_list_of_friends"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
                 <Button

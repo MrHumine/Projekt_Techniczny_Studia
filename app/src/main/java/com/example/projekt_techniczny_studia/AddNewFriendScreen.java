@@ -43,11 +43,6 @@ public class AddNewFriendScreen extends AppCompatActivity {
         textViewEyesColour = findViewById(R.id.textViewEyesColour);
         textViewDescription = findViewById(R.id.textViewDescription);
 
-
-        buttonClose.setOnClickListener((view) ->{
-            finish();
-        });
-
         buttonAdd.setOnClickListener((view) ->{
             String name = String.valueOf(textInputEditTextName.getText());
             textViewName.setText(name);
@@ -59,6 +54,11 @@ public class AddNewFriendScreen extends AppCompatActivity {
             textViewLocalization.setText(localization);
             String description = String.valueOf(textInputEditTextDescription.getText());
             textViewDescription.setText(description);
+            DataFromAddNewFriends list = new DataFromAddNewFriends(name, hair, eyes, localization, description);
+            DataManager.getInstance().addFriend(list);
         });
+
+        buttonClose.setOnClickListener((view) -> finish());
+
     }
 }

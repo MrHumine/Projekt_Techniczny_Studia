@@ -13,6 +13,8 @@ id button_of_add_new_friend
 id button_of_list_of_friends
 id button_of_settings
 id imageView
+id image_view_in_list_of_friends
+id recycle_view_list_of_friends
 id textView
 id textViewDescription
 id textViewEyesColour
@@ -24,10 +26,16 @@ id text_input_add_hair
 id text_input_add_localization
 id text_input_add_name
 id text_view_localization
+id text_wiew_in_list_of_friends_for_description
+id text_wiew_in_list_of_friends_for_eyes_colours
+id text_wiew_in_list_of_friends_for_hair_colour
+id text_wiew_in_list_of_friends_for_localization
+id text_wiew_in_list_of_friends_for_name
 layout activity_main
 layout creating_new_profile_of_friends
 layout list_of_friends_intent
 layout settings
+layout single_recycle_view_to_list_of_friends
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
