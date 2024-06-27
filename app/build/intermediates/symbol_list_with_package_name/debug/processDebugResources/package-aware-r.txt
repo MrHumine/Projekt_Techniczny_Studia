@@ -3139,6 +3139,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
+id button2
 id buttonPanel
 id button_add_description_creating_new_profile
 id button_close_list_of_friends
@@ -3287,6 +3289,8 @@ id legacy
 id line1
 id line3
 id linear
+id linear_layout_zmiana_czcionki
+id linear_layout_zmiana_motywu
 id listMode
 id list_item
 id m3_side_sheet
@@ -3477,6 +3481,7 @@ id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id switch1
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3512,6 +3517,7 @@ id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
 id text_view_localization
+id text_view_zmiana_czcionki
 id text_wiew_in_list_of_friends_for_description
 id text_wiew_in_list_of_friends_for_eyes_colours
 id text_wiew_in_list_of_friends_for_hair_colour

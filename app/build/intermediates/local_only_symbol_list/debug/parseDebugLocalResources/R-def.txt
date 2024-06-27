@@ -4,6 +4,8 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id button
+id button2
 id button_add_description_creating_new_profile
 id button_close_list_of_friends
 id button_close_of_creating_new_profile_of_friend
@@ -14,7 +16,10 @@ id button_of_list_of_friends
 id button_of_settings
 id imageView
 id image_view_in_list_of_friends
+id linear_layout_zmiana_czcionki
+id linear_layout_zmiana_motywu
 id recycle_view_list_of_friends
+id switch1
 id textView
 id textViewDescription
 id textViewEyesColour
@@ -26,6 +31,7 @@ id text_input_add_hair
 id text_input_add_localization
 id text_input_add_name
 id text_view_localization
+id text_view_zmiana_czcionki
 id text_wiew_in_list_of_friends_for_description
 id text_wiew_in_list_of_friends_for_eyes_colours
 id text_wiew_in_list_of_friends_for_hair_colour
