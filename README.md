@@ -14,6 +14,8 @@ What:
     Dodawanie nowych osób do listy wraz z ich opisami, takimi jak wygląd zewnętrzny, charakterystyczne cechy, hobby itp.
     Tworzenie avatarów na podstawie opisów, co jest szczególnie przydatne, gdy użytkownik nie posiada zdjęcia danej osoby.
     Przypisywanie miejsc, w których spotkano daną osobę, oraz dodawanie notatek lub wspomnień z tych spotkań.
+    Zamiana głosu na tekst w postaci opisu osoby z pomocą AI.
+    Dodać przypomnienie, które aktywuję się po jakimś czasie żeby przypomnieć by napisać do tej osoby.
 
 How:
     
